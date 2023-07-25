@@ -4,4 +4,7 @@ This repo contains steps of creating 'todo app' in python - web
 1. install streamlit package
 2. run > streamlit run web.py
 3. pip freeze > requirements.txt
+4. push branch to GIT
+5. deploye app
+6. https://todowebhl.streamlit.app/
 
